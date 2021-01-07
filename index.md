@@ -1,7 +1,6 @@
 ## Welcome to Neelima's GitHub Pages
 
 
-
 ### Profile
 
 My name is **Neelima Prasad**, and I am a mathematics-computer science major at UCSD. 
