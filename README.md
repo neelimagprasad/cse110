@@ -1,2 +1,2 @@
 # cse110
-A repository for cse 110
+My favorite programming language is C++ because of its speed and design
